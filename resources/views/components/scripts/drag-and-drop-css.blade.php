@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="{{ url('/backend') }}/assets/vendor/dropify/css/dropify.min.css">
